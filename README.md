@@ -12,7 +12,7 @@ For those not familiar with BASH you can simply copy or clone the script and run
 
 The script should as a minimum need execution rights to run so if you are the local user that would be chmod 500 timeconverter.sh. 
   
-To add this as a user PATH so that one may invoke it anytime simply copy the script to the /usr/local/bin or /home/<user>/.local/bin directory in Linux (distro dependent). 
+To add this as a user PATH so that one may invoke it anytime simply copy the script to the /usr/local/bin or /home/(user)/.local/bin directory in Linux (distro dependent). 
 
 A sample of how it works is here:<br>
 <div align='center'><img width='540px' src='https://1.bp.blogspot.com/-BwbpwsGdKzE/X7ibgH2IrBI/AAAAAAAAAFk/lCMKZpzAujYLG8ZtWgciRcHfYghM1HoJACLcBGAsYHQ/w586-h413/timeconverter.gif'></div>
