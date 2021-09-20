@@ -1,5 +1,5 @@
 # HourConversion
-This is a BASH scirpt that helps give an hourly conversion in different time zones around the world. It's based on the local date and timezone of the local system and should automatially adjust baesd on the system date and time. 
+This is a BASH script that helps give an hourly conversion in different time zones around the world. It's based on the local date and timezone of the local system and should automatially adjust baesd on the system date and time. 
 
 This script works completely offline with some simple math and the date function in Linux/POSIX systems with the BASH terminal. Daylight savings time is also factored in using the week number for when they shoudl take place as that is also available from the date command, though note it's assumed the time one is trying to convert is to take place the same week of the calculation.
 
