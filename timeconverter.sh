@@ -11,7 +11,7 @@
 time=0
 thismonth=0
 
-wherearewe=$(date +%:::z)
+wherearewe=$(date +%z)
 hereweare=${wherearewe:1:2}
 eastwest=${wherearewe:0:1} #get +/- to determine if eastern or western hemisphere based on GMT
 
