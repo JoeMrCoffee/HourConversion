@@ -119,4 +119,4 @@ elif [ "$NewDehli" -gt "12" ]; then
 fi
 
 #output
-printf "Europe: "$Europe"\nUK: "$UK"\nUSEast: "$USEast"\nUSWest: "$USWest"\nSydney: "$Sydney"\nAsiaCST: "$AsiaCST"\nNewDehli: "$NewDehli":30\nDuabi: "$Dubai"\nRiyadh: "$Riyadh"\n\n*Note that AM and PM can differ by region so bare in mind that say 1 o'clock in China will be the opposite in say New York depending on the time of year.\n"
+printf "Europe: "$Europe"\nUK: "$UK"\nUSEast: "$USEast"\nUSWest: "$USWest"\nSydney: "$Sydney"\nAsiaCST: "$AsiaCST"\nNewDehli: "$NewDehli":30\nDubai: "$Dubai"\nRiyadh: "$Riyadh"\n\n*Note that AM and PM can differ by region so bare in mind that say 1 o'clock in China will be the opposite in say New York depending on the time of year.\n"
