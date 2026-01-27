@@ -1,7 +1,7 @@
 # HourConversion
 This is a BASH script that helps give an hourly conversion in different time zones around the world. It's based on the local date and timezone of the local system and should automatially adjust baesd on the system date and time. 
 
-This script works completely offline with some simple math and the date function in Linux/POSIX systems with the BASH terminal. Daylight savings time is also factored in using the week number for when they shoudl take place as that is also available from the date command, though note it's assumed the time one is trying to convert is to take place the same week of the calculation.
+This script works completely offline with some simple math and the date function in Linux/POSIX systems with the BASH terminal. Daylight savings time is also factored in using the week number for when they should take place as that is also available from the date command, though note it's assumed the time one is trying to convert is to take place the same week of the calculation.
 
 What this is useful for is to allow for quick calculation of when to schedule a meeting. Say for example you want to schedule a meeting in Asia but you live in Europe - just enter the local time for your timezone, and the output will give you the hour.
 
